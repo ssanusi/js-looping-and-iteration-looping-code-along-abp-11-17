@@ -6,11 +6,11 @@ function printBadges(anArray){
   }
 return anArray;
 }
-function tailsNeverFails(){
-  let counter = 0;
-  let coin = Math.random();
-  while (coin > 0.5) {
-    counter++
-  }
-return `You got ${counter} tails in a row!`
-}
+// function tailsNeverFails(){
+//   let counter = 0;
+//   let coin = Math.random();
+//   while (coin > 0.5) {
+//     counter++
+//   }
+// return `You got ${counter} tails in a row!`
+// }
